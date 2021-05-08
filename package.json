@@ -1,0 +1,15 @@
+{
+  "name": "taskupdater",
+  "version": "1.0.0",
+  "description": "simple task updater for work",
+  "main": "index.js",
+  "dependencies": {
+    "googleapis": "^39.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "run"
+  },
+  "author": "jeevan",
+  "license": "ISC"
+}
