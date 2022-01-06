@@ -4,7 +4,8 @@
   "description": "simple task updater for work",
   "main": "index.js",
   "dependencies": {
-    "googleapis": "^39.2.0"
+    "googleapis": "^39.2.0",
+    "inquirer": "^8.0.0"
   },
   "devDependencies": {},
   "scripts": {
